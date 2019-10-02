@@ -1,0 +1,14 @@
+Mukundpur Chowk:	28.7325702 , 77.1802283
+Burari Chowk:		28.7550745 , 77.196578
+Jahangirpuri Bus stand:	28.7313032 , 77.1597402
+Azadpur Chowk:		28.6921859 , 77.1888691
+Delhi Gate:		28.6411903 , 77.2383939
+Bhalswa Chowk:		28.6513808 , 77.2229132
+Britannia Chowk:	28.6832089 , 77.1441809
+Siraspur:		28.7578395 , 77.1245927
+Shahdara Flyover:	28.6755034 , 77.2894225
+Shani Mandir Chowk:	28.6754989 , 77.2565917
+
+
+
+Black spots are locations that record three or more fatal or more 10 non-fatal accidents in a year.
