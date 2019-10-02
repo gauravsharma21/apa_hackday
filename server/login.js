@@ -10,7 +10,7 @@ app.post('/login', (req, res) => {
     User.findbycreds(req.body.PIS, req.body.DOB, (err, response) => {
         if (err)
             return res.send(err)
-        res.send(response)
+        res.send("Successfull login")
     })
 })
 app.post('/spots/add', async (req, res) => {
