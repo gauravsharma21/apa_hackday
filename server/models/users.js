@@ -19,7 +19,7 @@ const userSchema = new mongoose.Schema({
     }
 })
 userSchema.statics.findbycreds = function (id, DOB, callback) {
-    request({ uri: 'http://localhost:3000/info', json: true }, (err, res) => {
+    request({ uri: 'https://apaserver.herokuapp.com/info', json: true }, (err, res) => {
         if (err) {
             return callback('Unable to connect')
         }
