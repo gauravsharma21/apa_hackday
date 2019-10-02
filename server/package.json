@@ -4,7 +4,8 @@
   "description": "",
   "main": "login.js",
   "scripts": {
-    "start": "node login.js"
+    "start": "node login.js",
+    "dev": "env-cmd -f ./config/dev.env nodemon login.js"
   },
   "engines": {
     "node": "12.4.0",
